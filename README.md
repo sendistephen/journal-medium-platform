@@ -1,2 +1,2 @@
 # journal-medium-platform
-A social journalism platform  for the creative authors at heart
+A social journal blogginh platform  for the creative authors at heart
